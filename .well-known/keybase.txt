@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/msolde
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://miquelsoldevila.com
+  * I am msolde (https://keybase.io/msolde) on keybase.
+  * I have a public key with fingerprint 3230 396C 9BA8 BA87 17A8  D704 61A9 10A2 8370 CBF6
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010101bfb24d9ce083caf53381aeb4d4f415b5c5e604765ae245a058abbd77ca64a30a",
+      "fingerprint": "3230396c9ba8ba8717a8d70461a910a28370cbf6",
+      "host": "keybase.io",
+      "key_id": "61a910a28370cbf6",
+      "kid": "010101bfb24d9ce083caf53381aeb4d4f415b5c5e604765ae245a058abbd77ca64a30a",
+      "uid": "4d5b4e5777eef5b69a03dc4e3c523019",
+      "username": "msolde"
+    },
+    "service": {
+      "hostname": "miquelsoldevila.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1597597103,
+  "expire_in": 157680000,
+  "prev": "fb5263546a6ee4f98dc9c55ed3769942967d282bac1708c5699f9552fb7287d3",
+  "seqno": 118,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIpAnicrZJdSFRBFMfXTM2l0nADHwrhYmFly/2YuXOvGGoPlT7VQ5AVLDNz59p1
+P+629+66pZFkRRQFPVRSuBWlZOEH1RYVlUUKZQ8G4UtEBNEXpPWiD33OXfKtx2YO
+DHPmf35zzuE8WZTv8+ddnMhe/X59Zkfe+KNM0hfS2VC7QGxjj1DTLoRZ7mARgzlu
+KGwZQo0gSt4mJpGBoVMmagrFJlQUTcKMAAOYQIIEUshUESAVYiYDiEWoYUIMhChW
+AVZELFQLphVrYYl4woq5HKvIiqjoKtUJ1rghCWHNQCJQJaxLIpY1BYmUmCoP3GU7
+XgRPjmCHBS2b+/gllEvvH/r/nHcyhwMGJIBBhBBjJiSqjkXFoIApFPJKJN0TOiwR
+w1HG1VHH5j0U9lUL3JeyKPPa6tUx927tTrJITpSyIjhI7SgHxBO2a1M7wgW7XDfu
+1HgAd0/ci2hjJPSXFSJWzODN5BEplnAsOybUSFxJXcuDS1BH3CRRqRZYOm4lWMjy
+FBCpmsiX9w9LcaRJoKwqEKhYZQyYumZQnULIDAWpug5kXUWGrMkEUwmJGoXcaeoQ
+yiZBsoYMRfCq2x2zOVvSeKK4hUMdqyWG3WSCF/94ZOd8X57fV1gwzxszn7+4dG74
+jk0X/Y52LU0uCJcNXH95IZjtqe3bevzZzfwtdY1jJ9Zt+/mqokJDHzNn757u2Pri
+2t43E9VWMrW/YM29Tv/Fr2/ObKr8tWnwW/NgvrU8ODV1Y0HT3sOzr/Lcuqenjq28
+5ktnrgQupI4UTL4vyNTWz9w/c2nV9k9jw2tX6+s7346WjEyPLbs12bFBrBIahnuf
+l/RWnZyNZPtxoHsiMB6+VWn21g2aU18+LPk8Wt7W2lUUOnSAHi2r6r9d+/pU84OZ
+85ejv4fIaPp43bvFA7OtbLG82soGxif7Sks/BwP1C51zVdOND4uLesKbN0T6syCw
+4k55c+GP1nBlUu8+f6Kh7CAYadqYXvEHl49B9A==
+=BRkA
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/msolde
+
+==================================================================
